@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /about_page_reference.html
+Disallow: /referenceindex.html
+
+Sitemap: https://localguardiankerala.in/sitemap.xml
