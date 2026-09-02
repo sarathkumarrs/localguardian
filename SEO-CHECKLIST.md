@@ -94,5 +94,5 @@ dedicated page yet, which limits ranking potential:
 - [ ] Google Analytics 4 (or similar) to measure which keywords convert
 - [ ] Run Lighthouse/PageSpeed after hosting; consider self-hosting fonts & deferring JS if scores are low
 - [ ] Keep `<lastmod>` in `sitemap.xml` updated when pages change
-- [x] Contact email confirmed and updated site-wide to `care@localguardiankerala.in` (2026-07-03)
+- [x] Contact email confirmed and updated site-wide to `info@localguardian.in` (2026-09-02)
 - [ ] Delete `about_page_reference.html` / `referenceindex.html` before deploying (blocked in robots.txt meanwhile)
