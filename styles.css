@@ -245,11 +245,12 @@ section, .section { position: relative; }
 
 /* ============ Counters ============ */
 .counters {
-    padding: 90px 0; color: #fff;
+    padding: 130px 0 100px; color: #fff;
     background: linear-gradient(115deg, rgba(13,36,56,.95), rgba(47,102,51,.9)),
                 url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1600&q=80');
     background-size: cover; background-position: center; background-attachment: fixed;
 }
+.counters .section-row { margin-bottom: 80px; }
 .counter-item { text-align: center; padding: 10px; }
 .counter-item h2 { font-family: var(--display-font); font-size: 56px; font-weight: 700; color: #8fd39a; line-height: 1; }
 .counter-item h3 { font-size: 17px; font-weight: 600; margin: 12px 0 6px; text-transform: uppercase; letter-spacing: 1px; }
@@ -284,7 +285,7 @@ section, .section { position: relative; }
 .package-card.featured .btn-default:hover { color: var(--navy); }
 
 /* ============ X-Factor ============ */
-.xfactor { padding: 0 0 110px; }
+.xfactor { padding: 90px 0 110px; }
 .xfactor-inner {
     border-radius: 24px; overflow: hidden; position: relative; color: #fff;
     background: linear-gradient(120deg, rgba(13,36,56,.92), rgba(18,49,79,.85)),
